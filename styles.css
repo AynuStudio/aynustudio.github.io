@@ -311,7 +311,7 @@ a.social {
   margin:0;
 }
 
-.contact {
+section .contact {
   align-items: center;
 }
 
@@ -322,4 +322,5 @@ a.social {
     padding:30px;
   }
 }
+
 
