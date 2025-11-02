@@ -311,6 +311,10 @@ a.social {
   margin:0;
 }
 
+.contact {
+  align-items: center;
+}
+
 @media (max-width: 850px) {
   .curved-container {
     flex-direction:column;
@@ -318,3 +322,4 @@ a.social {
     padding:30px;
   }
 }
+
